@@ -8,12 +8,6 @@ Welcome to the Java Basics repository! This repository is designed to help you l
 
 The practice sessions in this repository are organized based on different Java topics. Each session includes exercises and coding challenges to reinforce your knowledge and skills. You can find the practice sessions in the [PracticeSessions](PracticeSessions/) directory. Here's an overview of the available practice sessions:
 
-- [Session 1: Variables and Data Types](PracticeSessions/Session1_VariablesAndDataTypes.md)
-- [Session 2: Control Flow](PracticeSessions/Session2_ControlFlow.md)
-- [Session 3: Arrays](PracticeSessions/Session3_Arrays.md)
-- [Session 4: Object-Oriented Programming](PracticeSessions/Session4_ObjectOrientedProgramming.md)
-- [Session 5: Exception Handling](PracticeSessions/Session5_ExceptionHandling.md)
-
 Feel free to explore each session, complete the exercises, and challenge yourself with the coding problems. The practice sessions are designed to provide hands-on experience and deepen your understanding of Java programming concepts.
 
 ## Topics Covered
