@@ -15,8 +15,6 @@ public class ifstatement {
         }else {
             System.out.println("Y is greater than x");
         }
-
-
     }
 
 
